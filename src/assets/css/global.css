@@ -46,3 +46,7 @@ body,
   .el-cascader-panel .el-cascader-node__postfix {
     top: 10px;
   }
+
+  .ql-editor {
+    min-height: 300px;
+  }
